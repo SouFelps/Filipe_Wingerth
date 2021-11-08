@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SouFelps
-- 👀 I’m interested in Javascript/HTML/Python ...
-- 🌱 I’m currently learning Klotin.
+- 👨‍💻 Junior programmer
+- 👀 I’m interested in Javascript/HTML/CCS/Python ...
+- 🌱 I’m currently learning Python.
 
 <!---
 SouFelps/SouFelps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
