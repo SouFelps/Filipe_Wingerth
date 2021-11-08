@@ -2,8 +2,5 @@
 - 👨‍💻 Junior programmer
 - 👀 I’m interested in Javascript/HTML/CCS/Python ...
 - 🌱 I’m currently learning Python.
+- 🧧 Contact E-mail: filipiteixeira.contato@gmail.com
 
-<!---
-SouFelps/SouFelps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
