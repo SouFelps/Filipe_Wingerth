@@ -1,9 +1,8 @@
 ## Olá, eu sou o Felps!
 
 - 👋 Hi, I’m @SouFelps
-- 👨‍💻 Junior programmer
-- 👀 I’m interested in Javascript/HTML/CCS/Python ...
-- 🌱 I’m currently learning Python.
+- 👨‍💻 Junior programmer, new in the programmer word.
+- 🌱 I’m currently learning Javascript.
 - 🧧 Contact E-mail: filipiteixeira.contato@gmail.com
 
 ##
