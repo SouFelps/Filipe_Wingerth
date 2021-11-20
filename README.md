@@ -1,3 +1,6 @@
+! [banner] (./MinhaBanner.png)
+
+
 <h3>Sesse ao meu perfil!</h3>
 <p align="left">
  👋🏽 sou um autodidata melhorando minhas habilidades de desenvolvimento.
