@@ -1,9 +1,6 @@
-## Olá, eu sou o Felps!
-
-- 👋 Hi, I’m @SouFelps
-- 👨‍💻 Junior programmer, new in the programmer word.
-- 🌱 I’m currently learning Javascript.
-- 🧧 Contact E-mail: filipiteixeira.contato@gmail.com
+Howdy, my name is Felps!
+Developer, Javascript, HTML and CSS. Founder of BUMBLE startup.
+Também sei falar portugues!
 
 ##
 
