@@ -1,7 +1,7 @@
 ![MINHA BANNER](https://user-images.githubusercontent.com/91474990/142739833-dcfba90c-0c50-4337-8829-684dbe805781.gif)
 
 
-<h3>Sesse ao meu perfil!</h3>
+<h1>Bem vindo ao meu perfil!</h1>
 <p align="left">
  👋🏽 sou um autodidata melhorando minhas habilidades de desenvolvimento.
 </p>
