@@ -9,7 +9,7 @@
  🕮 Um Poliglota que fala em português, inglês e espanhol.
 </p>
 <p align="left">
- 📚 Design, gestão e desenvolvimento web são a principal filial em que quero trabalhar.
+ 📚 Design, segurança da informação e desenvolvimento web são a principal área em que quero trabalhar.
 </p>
 <p align="left">
  💻 Sempre buscando colaborar em projetos que me darão experiência e conversas profundas que possam me dar qualquer arte de conhecimento.
