@@ -1,6 +1,16 @@
-Howdy, my name is Felps!
-Developer, Javascript, HTML and CSS. Founder of BUMBLE startup.
-Também sei falar portugues!
+<h3>Sesse ao meu perfil!</h3>
+<p align="left">
+ 👋🏽 sou um autodidata melhorando minhas habilidades de desenvolvimento.
+</p>
+<p align="left">
+ 🕮 Um Poliglota que fala em português, inglês e espanhol.
+</p>
+<p align="left">
+ 📚 Design, gestão e desenvolvimento web são a principal filial em que quero trabalhar.
+</p>
+<p align="left">
+ 💻 Sempre buscando colaborar em projetos que me darão experiência e conversas profundas que possam me dar qualquer arte de conhecimento.
+</p>
 
 ##
 
