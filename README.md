@@ -1,5 +1,5 @@
-![MINHA BANNER](https://user-images.githubusercontent.com/91474990/142739833-dcfba90c-0c50-4337-8829-684dbe805781.gif)
 
+![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/91474990/150808365-1e97706c-e9d8-4dce-aee8-0b24723ac432.gif)
 
 <h1>Bem vindo ao meu perfil!</h1>
 <p align="left">
