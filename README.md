@@ -1,6 +1,4 @@
 
-![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/91474990/150808365-1e97706c-e9d8-4dce-aee8-0b24723ac432.gif)
-
 <h1>Bem vindo ao meu perfil!</h1>
 <p align="left">
  👋🏽 sou um autodidata melhorando minhas habilidades de desenvolvimento.
