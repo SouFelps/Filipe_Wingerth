@@ -1,4 +1,4 @@
-<img align="right" src="" style="width:350px; height:350px; border: 50px; max-width:100%;">
+<img align="right" src="https://github.com/SouFelps/SouFelps/blob/3cbb1992bb98507fa58e325a143b59c07aca9254/Icon%20Profile.png" style="width:350px; height:350px; border: 60px; max-width:100%;">
 <h1>Bem vindo ao meu perfil!</h1>
 <p align="left">
  👋🏽 sou um autodidata melhorando minhas habilidades de desenvolvimento.
