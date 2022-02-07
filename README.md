@@ -1,4 +1,4 @@
-
+<img align="right" src="https://user-images.githubusercontent.com/83125929/123564771-063fb400-d791-11eb-8733-0e2e1b65dbe0.png" style="width:350px; height:350px; border: 50px; max-width:100%;">
 <h1>Bem vindo ao meu perfil!</h1>
 <p align="left">
  👋🏽 sou um autodidata melhorando minhas habilidades de desenvolvimento.
